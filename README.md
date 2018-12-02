@@ -1,6 +1,6 @@
-<center># Nuit-de-l-info---BFF-Entertainment</center>
+# Nuit-de-l-info---BFF-Entertainment
 
-[logo]: 
+[logo]:(Nuit-de-l-info---BFF-Entertainment/tumblr_nmdrj8eFAU1qflgwpo3_1280.jpg)
 
 <i>Petits mots de l'équipe : </i>
 
