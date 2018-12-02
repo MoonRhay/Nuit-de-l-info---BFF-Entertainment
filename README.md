@@ -1,6 +1,6 @@
 # Nuit-de-l-info---BFF-Entertainment
 
-![alt text](Nuit-de-l-info---BFF-Entertainment/NDI.jpg)
+![alt text](https://github.com/MoonRhay/Nuit-de-l-info---BFF-Entertainment/blob/master/NDI.jpg?raw=true)
 
 <i>Petits mots de l'équipe :</i>
 
