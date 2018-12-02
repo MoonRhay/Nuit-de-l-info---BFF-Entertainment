@@ -2,16 +2,16 @@
 
 <i>Petits mots de l'équipe : </i>
 
-Riccardo FRANZESE (Leader/Roi) = "Le roi vous invite dans son palace, prenez place et programmez bande d'ingrat !"
+Riccardo FRANZESE (Leader/Roi) = "Le roi vous invite dans son palace, prenez place et programmez bande d'ingrat !"</br>
 Alessandra FRANZESE = " Programmer, oui mais dans la bonne humeur ╭( ･ㅂ･)و ̑̑  " </br>
-Alan ROUSIC = 
-Eillian LETHUILLIER =
-Lucas BOUE-BIGNE =
-Sullivan AGESILAS = 
-Jean-Michel SANCHEZ
-Baptiste DALLE MOLLE =
-Quentin PAVAGEAU =
-Paul-Henry GUICHARROUSSE =
-Rémi BLEU =
-David LEFRANC =
+Alan ROUSIC = </br>
+Eillian LETHUILLIER =</br>
+Lucas BOUE-BIGNE =</br>
+Sullivan AGESILAS = </br>
+Jean-Michel SANCHEZ = </br>
+Baptiste DALLE MOLLE =</br>
+Quentin PAVAGEAU =</br>
+Paul-Henry GUICHARROUSSE =</br>
+Rémi BLEU =</br>
+David LEFRANC =</br>
 Lucas GUILLEMEAU = 
