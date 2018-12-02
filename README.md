@@ -1,8 +1,8 @@
 # Nuit-de-l-info---BFF-Entertainment
 
-[logo]:(Nuit-de-l-info---BFF-Entertainment/tumblr_nmdrj8eFAU1qflgwpo3_1280.jpg)
+![alt text](https://raw.githubusercontent.com/MoonRhay/Nuit-de-l-info---BFF-Entertainment/NDI.jpg)
 
-<i>Petits mots de l'équipe : </i>
+<i>Petits mots de l'équipe :</i>
 
 Riccardo FRANZESE (Leader/Roi) = "Le roi vous invite dans son palace, prenez place et programmez bande d'ingrat !"</br>
 Alessandra FRANZESE = " Programmer, oui mais dans la bonne humeur ╭( ･ㅂ･)و ̑̑  " </br>
