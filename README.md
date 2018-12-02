@@ -1,4 +1,6 @@
-# Nuit-de-l-info---BFF-Entertainment
+<center># Nuit-de-l-info---BFF-Entertainment</center>
+
+[logo]: 
 
 <i>Petits mots de l'équipe : </i>
 
