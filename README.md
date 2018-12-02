@@ -2,18 +2,18 @@
 
 ![alt text](https://github.com/MoonRhay/Nuit-de-l-info---BFF-Entertainment/blob/master/NDI.jpg?raw=true)
 
-<i>Petits mots de l'équipe :</i>
+<i>Petits mots de l'équipe :</i></br>
 
-Riccardo FRANZESE (Leader/Roi) = "Le roi vous invite dans son palace, prenez place et programmez bande d'ingrat !"</br></br>
-Alessandra FRANZESE = " Programmer, oui mais dans la bonne humeur ╭( ･ㅂ･)و ̑̑  " </br></br>
-Alan ROUSIC = </br></br>
-Eillian LETHUILLIER =</br></br>
-Lucas BOUE-BIGNE =</br></br>
-Sullivan AGESILAS = </br></br>
-Jean-Michel SANCHEZ = </br></br>
-Baptiste DALLE MOLLE =</br></br>
-Quentin PAVAGEAU =</br></br>
-Paul-Henry GUICHARROUSSE =</br></br>
-Rémi BLEU =</br></br>
-David LEFRANC =</br></br>
+Riccardo FRANZESE (Leader/Roi) = "Le roi vous invite dans son palace, prenez place et programmez bande d'ingrat !"</br>
+Alessandra FRANZESE = " Programmer, oui mais dans la bonne humeur ╭( ･ㅂ･)و ̑̑  " </br>
+Alan ROUSIC = </br>
+Eillian LETHUILLIER =</br>
+Lucas BOUE-BIGNE =</br>
+Sullivan AGESILAS = </br>
+Jean-Michel SANCHEZ = </br>
+Baptiste DALLE MOLLE =</br>
+Quentin PAVAGEAU =</br>
+Paul-Henry GUICHARROUSSE =</br>
+Rémi BLEU =</br>
+David LEFRANC =</br>
 Lucas GUILLEMEAU = 
